@@ -1,0 +1,14 @@
+{
+	"name": "ccnet",
+	"version": "1.0.0",
+	"description": "This is a server that allows for communication of computercraft computers through http in a pub/sub style, allowing cross-dimensional, cross-server, and infinite-range wireless communications",
+	"main": "index.js",
+	"scripts": {
+		"start": "node ."
+	},
+	"keywords": [
+		"computercraft"
+	],
+	"author": "Shaun Keys",
+	"license": "ISC"
+}
